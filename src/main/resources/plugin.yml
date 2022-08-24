@@ -1,0 +1,9 @@
+name: Projectvanguardcore
+version: '${project.version}'
+main: me.jack.projectvanguardcore.Projectvanguardcore
+api-version: 1.18
+authors: [ ItssJack ]
+commands:
+  history:
+    description: Lookup a players punish history
+    usage: /history <Player IGN>
